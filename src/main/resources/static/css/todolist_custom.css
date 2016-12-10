@@ -1,0 +1,10 @@
+.padding0{
+    padding: 0px !important;
+}
+.taskTitle{
+    margin-bottom: 0px !important;
+    background-color: gainsboro;
+    padding: 5px;
+    border-radius: 20px;
+    color: #337ab7;
+}
